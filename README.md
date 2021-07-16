@@ -14,3 +14,8 @@ I am primarily focused on front-end, but I do full stack as well.
 
 <br />
 <br />
+
+## My site
+
+[Personal Portfolio](https://MichaelHall.io)
+My personal site, dedicated to showcase some skills and projects I have created or worked on. Also, I have a blog, to help people learn some tricks and tips, avoid random "gotchas", and most importantly build a quick information guide when I need to relearn something myself.
